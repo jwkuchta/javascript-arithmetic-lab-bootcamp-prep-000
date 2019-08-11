@@ -39,3 +39,5 @@ function preserveDecimal(num) {
 }
 
 console.log(preserveDecimal(2.222))
+
+console.log(parseInt("3"))
